@@ -1,0 +1,4 @@
+rootProject.name = 'PickleRickSampleApp'
+include 'PickleRick-Annotations'
+include 'PickleRick-Processor'
+
