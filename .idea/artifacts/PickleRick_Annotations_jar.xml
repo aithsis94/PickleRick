@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PickleRick-Annotations.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PickleRick_Annotations_jar</output-path>
+    <root id="archive" name="in.picklerick.PickleRick-Annotations.main.jar">
+      <element id="module-output" name="in.picklerick.PickleRick-Annotations.main" />
+    </root>
+  </artifact>
+</component>

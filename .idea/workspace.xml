@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PickleRick-Annotations.jar" />
+      <artifact name="PickleRick-Processor.jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cdb27fd-44ec-4281-a4ba-e61852812b4e" name="Default Changelist" comment="" />
+    <list default="true" id="4cdb27fd-44ec-4281-a4ba-e61852812b4e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PickleRick-Annotations/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/PickleRick-Annotations/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PickleRick-Processor/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/PickleRick-Processor/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/in.ajitesh.sampleapp.PickleRickSampleApp.main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/ajitesh/sampleapp/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/picklerick/AbsComponentProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/picklerick/AbstractComponentInjector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/picklerick/IComponentInjector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/picklerick/PickleRick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/sampleapp/AlloyWheel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/sampleapp/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/sampleapp/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/sampleapp/Car_setter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/sampleapp/DieselEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/sampleapp/ICar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/sampleapp/IEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/sampleapp/IWheel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/sampleapp/ProdSetup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/sampleapp/ProdSetupInjector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/sampleapp/ProdSetupProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/sampleapp/ShowRoom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/sampleapp/ShowRoom_setter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/sampleapp/TestCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/sampleapp/TestCar_setter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/sampleapp/TestEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/sampleapp/TestSetup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/sampleapp/TestSetupInjector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/sampleapp/TestSetupProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/in/sampleapp/TestWheel.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,14 +72,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/in/sampleapp/App.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PickleRick-Processor/src/main/java/in/picklerick/codegeneration/CodeWriter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="10" column="76" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PickleRick-Annotations/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PickleRick-Processor/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -55,22 +108,31 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>prett</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PickleRick-Annotations/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/in/ajitesh/sampleapp/App.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/in/sampleapp/App.java" />
+        <option value="$PROJECT_DIR$/PickleRick-Processor/src/main/java/in/picklerick/codegeneration/SetupProviderCodeGenerator.java" />
+        <option value="$PROJECT_DIR$/PickleRick-Processor/src/main/java/in/picklerick/codegeneration/CodeWriter.java" />
+        <option value="$PROJECT_DIR$/PickleRick-Annotations/build.gradle" />
+        <option value="$PROJECT_DIR$/PickleRick-Processor/build.gradle" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="820" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -78,6 +140,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -88,26 +151,60 @@
             <path>
               <item name="PickleRickSampleApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="PickleRickSampleApp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="PickleRick-Annotations" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="PickleRickSampleApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PickleRickSampleApp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="PickleRick-Processor" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="PickleRickSampleApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PickleRickSampleApp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="PickleRick-Processor" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PickleRickSampleApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="PickleRickSampleApp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="PickleRick-Processor" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="PickleRickSampleApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PickleRickSampleApp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="PickleRick-Processor" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PickleRickSampleApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PickleRickSampleApp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="PickleRick-Processor" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="picklerick" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546156913334" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="picklericksampleapp" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547210168467" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.28431374" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -169,7 +266,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.45636624" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4055794" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -184,9 +281,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.6012048" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="10" weight="0.32967034" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.5493976" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -203,55 +300,12 @@
     <entry file="file://$PROJECT_DIR$/local.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/PickleRick-Processor/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PickleRick-Annotations/src/main/java/in/picklerick/TempClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/in/ajitesh/sampleapp/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PickleRick-Annotations/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PickleRick-Annotations/src/main/java/in/picklerick/TempClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/in/ajitesh/sampleapp/App.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/in/sampleapp/AlloyWheel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/classes/java/main/in/picklerick/PickleRick.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -262,13 +316,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/in/sampleapp/App.java">
+    <entry file="file://$PROJECT_DIR$/build/classes/java/main/in/picklerick/PickleRick.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="60">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/in/sampleapp/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PickleRick-Processor/src/main/java/in/picklerick/codegeneration/SetupProviderCodeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PickleRick-Processor/src/main/java/in/picklerick/codegeneration/CodeWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="76" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PickleRick-Processor/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PickleRick-Annotations/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -278,10 +377,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>PickleRick-Processor.jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.28431374" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -324,7 +425,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>main|ajitesh.sampleapp.PickleRickSampleApp|in</last-edited>
+          <last-edited>ajitesh.sampleapp.PickleRickSampleApp|in</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
